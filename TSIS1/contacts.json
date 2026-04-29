@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Stella",
+    "email": "stella_2007@gmail.com",
+    "birthday": "2007-09-09",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "99999999999",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Globus",
+    "email": "sglobuswww@gmail.com",
+    "birthday": "2024-06-01",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "3274375267",
+        "type": "mobile"
+      }
+    ]
+  }
+]
